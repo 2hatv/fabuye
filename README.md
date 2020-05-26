@@ -3,7 +3,7 @@
 
  ## 主域名： https://www.2HA.tv  
  ## 备用域名： https://www.2HA.dog  
- ## Github地址： http://github.com/2HATV/fabuye  
+ ## Github地址： https://github.com/2HATV/fabuye  
  ## 联系邮箱、取回最新地址： tv.2ha(#)outlook.com  
 
 ### 最新地址
