@@ -1,4 +1,4 @@
-![www.2HA.tv](logo.jpg)  
+![www.2HA.tv](https://github.com/2hatv/fabuye/blob/master/logo_img_sc.22php.png)  
 # 发布页(二哈TV，二哈影视，二哈视频，二哈电影)  
 
  ## 主域名： https://www.2HA.tv  
