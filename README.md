@@ -3,8 +3,8 @@
 
  **主域名：** www.2HA.tv  
  **备用域名：** www.2HA.dog  
- **GT地址：**github.com/2HATV/fabuye  
- **联系邮箱、取回最新地址：**tv.2ha(#)outlook.com  
+ **GT地址：** github.com/2HATV/fabuye  
+ **联系邮箱、取回最新地址：** tv.2ha(#)outlook.com  
 
 **最新地址**
 * 地址01：[ffjjkffkj.com](http://fgrhhhj.org/)
